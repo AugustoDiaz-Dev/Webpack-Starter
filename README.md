@@ -9,7 +9,7 @@
 - Babel is a free and open-source JavaScript transcompiler that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript that can be run by older JavaScript engines. Babel is a popular tool for using the newest features of the JavaScript programming language.
 
 - API : https://icanhazdadjoke.com/
-
+```json
   "devDependencies": {
     "@babel/core": "^7.18.13",
     "@babel/preset-env": "^7.18.10",
@@ -25,3 +25,4 @@
     "webpack-dev-server": "^4.10.0",
     "axios": "^0.27.2"
   }
+```
